@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Engenharia de Software - @UCSAL<br>🎓 Formado em Desenvolvimento de Sistemas pelo SENAI CIMATEC</p>
+<p align="left">📚 Engenharia de Software - UCSAL<br>🎓 Formado em Desenvolvimento de Sistemas pelo SENAI CIMATEC</p>
 
 ###
 
