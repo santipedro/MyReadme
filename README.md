@@ -1,4 +1,4 @@
-<h1 align="left">OI, me chamo Pedro Santiago👋🏾!</h1>
+<h1 align="left">Oi, me chamo Pedro Santiago👋🏾!</h1>
 
 ###
 
